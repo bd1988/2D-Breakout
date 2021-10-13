@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+.grid {
+    width: 560px;
+    height: 300px;
+    border: 1px solid black;    
+    position: absolute;
+}
+
+.block {
+    width: 100px;
+    height: 20px;
+    background-color: sandybrown;
+    position: absolute;    
+}
+
+.second {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
