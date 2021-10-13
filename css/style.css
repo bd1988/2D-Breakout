@@ -3,6 +3,7 @@ body {
 }
 
 .grid {
+    margin-top: 100px;
     width: 560px;
     height: 300px;
     border: 1px solid black;    
@@ -16,8 +17,17 @@ body {
     position: absolute;    
 }
 
-.second {
-    width: 200px;
-    height: 100px;
-    background-color: black;
+.user {
+    width: 100px;
+    height: 20px;
+    background-color: indianred;
+    position: absolute;    
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
 }
